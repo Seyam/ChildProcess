@@ -1,5 +1,6 @@
 # Systemctl commands:
 
+#systemctl daemon-reload
 #systemctl enable myService.service
 #systemctl disable myService.service
 #systemctl start myService.service
